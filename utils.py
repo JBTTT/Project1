@@ -2,4 +2,4 @@ def greeting(jibin):
  print("Hello, " + jibin)
 
 def goodbye():
- print("Goodbye")
+ print("Goodbye everyone")
